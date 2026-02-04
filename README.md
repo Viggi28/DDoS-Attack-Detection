@@ -44,21 +44,6 @@ Models are evaluated using:
 - F1-Score
 - Confusion Matrix
 
-## Project Structure
-
-```
-DDoS-Attack-Detection/
-├── preprocessing.ipynb          # Data preprocessing and feature engineering
-├── ann.ipynb                     # Artificial Neural Network implementation
-├── cnn.ipynb                     # Convolutional Neural Network implementation
-├── decision_tree.ipynb           # Decision Tree classifier
-├── knn.ipynb                     # K-Nearest Neighbors classifier
-├── logistic_regression.ipynb     # Logistic Regression classifier
-├── naive_bayes.ipynb             # Naive Bayes classifier
-├── README.md                     # This file
-└── Project Report/
-    └── CSE543_Paper.pdf          # Detailed research paper
-```
 
 ## Results and Findings
 
